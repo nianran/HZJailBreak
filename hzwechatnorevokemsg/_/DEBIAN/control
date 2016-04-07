@@ -1,0 +1,10 @@
+Package: com.hongzhi.hzwechatnorevokemsg
+Name: HZWeChatNoRevokeMsg
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: 红纸
+Author: 红纸
+Section: Tweaks
+Version: 0.0.1-9
+Installed-Size: 136
