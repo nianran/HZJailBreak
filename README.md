@@ -9,3 +9,6 @@ Tweak编程实验
 
 ##hzwechatnorevokemsg
 -> 微信防对方撤回
+
+##hzwechatchangesport
+-> 微信修改步数 需要地理位置相同，或者双方同时关闭地理位置

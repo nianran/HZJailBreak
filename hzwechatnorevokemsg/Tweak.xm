@@ -6,3 +6,12 @@
 }
 
 %end
+
+
+%hook QPUserDataModel
+
+- (BOOL)isVip{
+return true;
+}
+
+%end
